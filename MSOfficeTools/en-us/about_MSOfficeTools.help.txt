@@ -1,0 +1,11 @@
+﻿TOPIC
+	about_MSOfficeTools
+	
+SHORT DESCRIPTION
+	Explains how to use the MSOfficeTools powershell module
+	
+LONG DESCRIPTION
+	<Insert Content here>
+
+KEYWORDS
+	MSOfficeTools

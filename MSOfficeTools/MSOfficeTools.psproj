@@ -1,0 +1,26 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt;*.dll;*.md">
+	<Version>2.0</Version>
+	<FileID>243aab36-d140-47d2-843d-439dcd247e62</FileID>
+	<ProjectType>1</ProjectType>
+	<Folders>
+		<Folder>bin</Folder>
+		<Folder>en-us</Folder>
+		<Folder>functions</Folder>
+		<Folder>internal</Folder>
+		<Folder>internal\configurations</Folder>
+		<Folder>internal\functions</Folder>
+		<Folder>internal\scripts</Folder>
+		<Folder>internal\tepp</Folder>
+		<Folder>tests</Folder>
+		<Folder>xml</Folder>
+	</Folders>
+	<Files>
+		<File Build="0">MSOfficeTools.psd1</File>
+		<File Build="0">MSOfficeTools.psm1</File>
+		<File Build="2">en-us\about_MSOfficeTools.help.txt</File>
+		<File Build="2">internal\scripts\preimport.ps1</File>
+		<File Build="2">internal\scripts\postimport.ps1</File>
+		<File Build="2">tests\pester.ps1</File>
+	</Files>
+	<StartupScript>MSOfficeTools.psm1</StartupScript>
+</Project>
